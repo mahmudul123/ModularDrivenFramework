@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+      <class name="Base.SetUpBreakDown">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logInTest()[pri:1, instance:Base.SetUpBreakDown@548a9f61]" name="logInTest" duration-ms="8" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="changePassword()[pri:2, instance:Base.SetUpBreakDown@548a9f61]" name="changePassword" duration-ms="6" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassword -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="logOutTest()[pri:3, instance:Base.SetUpBreakDown@548a9f61]" name="logOutTest" duration-ms="3" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Base.SetUpBreakDown@548a9f61]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-07-21T19:48:03Z" finished-at="2019-07-21T19:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Base.SetUpBreakDown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
